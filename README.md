@@ -34,3 +34,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Links:
+
+* [Gist](https://gist.github.com/sudachi0114)
+* [Qiita](https://qiita.com/sudachi0114)
+* [HatenaBlog](https://camonowarehouse.hatenablog.jp/)
